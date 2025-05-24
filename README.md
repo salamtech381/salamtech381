@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @salamtech381
+- 👋 Hi, I’m Salam
 - 👀 I’m interested in Projects
-- 🌱 I’m currently learning Flutter and JavaScript
+- 🌱 I’m currently learning Python
 - 📫 How to reach me salamtech381@gmail.com
 
 <!---
